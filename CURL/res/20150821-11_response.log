@@ -1,0 +1,4770 @@
+***************************开始*************************************
+-------------------------第0次---------------------------
+***************************开始*************************************
+-------------------------第1次---------------------------
+***************************开始*************************************
+-------------------------第2次---------------------------
+***************************开始*************************************
+-------------------------第3次---------------------------
+***************************开始*************************************
+-------------------------第4次---------------------------
+***************************开始*************************************
+-------------------------第5次---------------------------
+***************************开始*************************************
+-------------------------第6次---------------------------
+***************************开始*************************************
+-------------------------第7次---------------------------
+***************************开始*************************************
+-------------------------第8次---------------------------
+***************************开始*************************************
+-------------------------第9次---------------------------
+***************************开始*************************************
+-------------------------第0次---------------------------
+***************************开始*************************************
+-------------------------第1次---------------------------
+***************************开始*************************************
+-------------------------第2次---------------------------
+***************************开始*************************************
+-------------------------第3次---------------------------
+***************************开始*************************************
+-------------------------第4次---------------------------
+***************************开始*************************************
+-------------------------第5次---------------------------
+***************************开始*************************************
+-------------------------第6次---------------------------
+***************************开始*************************************
+-------------------------第7次---------------------------
+***************************开始*************************************
+-------------------------第8次---------------------------
+***************************开始*************************************
+-------------------------第9次---------------------------
+***************************开始*************************************
+-------------------------第0次---------------------------
+***************************开始*************************************
+-------------------------第1次---------------------------
+***************************开始*************************************
+-------------------------第2次---------------------------
+***************************开始*************************************
+-------------------------第3次---------------------------
+***************************开始*************************************
+-------------------------第4次---------------------------
+***************************开始*************************************
+-------------------------第5次---------------------------
+***************************开始*************************************
+-------------------------第6次---------------------------
+***************************开始*************************************
+-------------------------第7次---------------------------
+***************************开始*************************************
+-------------------------第8次---------------------------
+***************************开始*************************************
+-------------------------第9次---------------------------
+***************************开始*************************************
+-------------------------第0次---------------------------
+***************************开始*************************************
+-------------------------第1次---------------------------
+***************************开始*************************************
+-------------------------第2次---------------------------
+***************************开始*************************************
+-------------------------第3次---------------------------
+***************************开始*************************************
+-------------------------第4次---------------------------
+***************************开始*************************************
+-------------------------第5次---------------------------
+***************************开始*************************************
+-------------------------第6次---------------------------
+***************************开始*************************************
+-------------------------第7次---------------------------
+***************************开始*************************************
+-------------------------第8次---------------------------
+***************************开始*************************************
+-------------------------第9次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第0次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第1次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第2次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第3次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第4次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第5次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第6次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第7次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第8次---------------------------
+***************************开始*************************************
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <title>成长</title>
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/jalert.min.css?v=0515" />
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/idangerous.swiper_new.css">
+    <link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/new_yab.css?v=0515"/>    
+    
+<link rel="stylesheet" type="text/css" href="http://www.youanbao.local/chat/v3.0/css/mobiscroll.css">
+  
+</head>
+
+<body>
+<!-- 切换宝宝菜单 -->
+<div class="slide_left_menu_bg">
+    <div class="slide_left_menu">
+        <div class="slide_left_menu_til">
+           	 我的宝宝
+            <div class="add_user_btn"></div>
+        </div>
+        <ul class="slide_left_menu_ul">
+            <li class='act' studentid='2015100000002992'>
+                <div class="user_img">
+                	                    <img src='http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg'>
+                                    </div>
+                <div>张子嘻</div>		
+            </li><li  studentid='2015100000002980'>
+                <div class="user_img">
+                	                    <img src="http://www.youanbao.local/chat/v3.0/images/default_children_head.png">
+                                    </div>
+                <div>张均涵</div>		
+            </li>    
+        </ul>
+    </div>
+</div>
+
+<!-- head -->
+<div class="grow_banner_box">
+	    <div class="setting_menu_btn"></div>
+        <div class="signin_info_btn "></div>
+    <div class="title">张子嘻.中班1班.开发号幼儿园</div>
+    <div class="banner_img" style="background-image: url(http://www.youanbao.local/uploads/chat/youanbao/baby/88888167/55a4a86b9e7f4.jpg);"></div>
+</div>
+<!-- 基本信息 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="common_p_middle text_center">今天08月21日，宝宝 1岁</div>
+        
+                <div class="small_blank"></div>
+        <ul class="common_list_table"> 
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=1" class="down_growing">75.00</a>
+                <div class="common_p_small">宝宝身高(厘米)</div>
+                            </li>
+            <li>
+            	                <a href="http://www.youanbao.local/chat/Homepage/body?studentid=2015100000002992&type=0" class="up_growing">9.10</a>
+                <div class="common_p_small">宝宝体重(千克)</div>
+                            </li>
+        </ul>
+            </div>
+</div>
+<!-- 日志 -->
+<div class="common_box1">
+    <div class="box_tiltle">日志 <a class="more_btn diary">更多</a></div>
+    <div class="main_box">
+        <ul class="common_list_news">
+        
+        	<li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=49">
+                	                    <div class="news_content">
+                        <div class="common_p_small">[病了][Sorry][爱][抓]哈哈哈</div>
+                        <div class="common_time text_right">2015-07-18</div>
+                    </div>
+                </a>
+            </li><li>
+                <a href="http://www.youanbao.local//chat/diary/detail?studentid=2015100000002992&id=48">
+                	                    <div class="img"><img src="http://www.youanbao.local/uploads/Sc1adc54430dfb6/receive/thumb_5_MediaId.jpeg"></div>
+                                        <div class="news_content">
+                        <div class="common_p_small">你们两个都是好学生哦，哈哈。好好学习，天天向上！</div>
+                        <div class="common_time text_right">2015-07-15</div>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+    </div>
+</div>
+<!-- 九宫格菜单 -->
+<div class="common_box1">
+    <div class="main_box">
+        <div class="main_box swiper-container">
+        <ul class="common_list_icon swiper-wrapper">
+            <div class="swiper-slide">
+            <li>
+                <a href="http://www.youanbao.local/chat/manual/index?studentid=2015100000002992" class='yab_chat_href'>             	
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon1.png"> 
+                                        </div>
+                    <div class="icon_text">联系手册</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/homework/index?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon2.png">
+                                        </div>
+                    <div class="icon_text">亲子时光</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/sign/leave?studentid=2015100000002992" class='yab_chat_href'>
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon3.png">
+                                        </div>
+                    <div class="icon_text">请假</div>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youanbao.local/chat/healthy/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon4.png">
+                    </div>
+                    <div class="icon_text">健康关怀</div>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.youanbao.local/chat/consult/consult?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon11.png">
+                    </div>
+                    <div class="icon_text">咨询</div>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://www.youanbao.local/chat/morningcheck/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon6.png">
+                    </div>
+                    <div class="icon_text">晨检</div>
+                </a>
+            </li>
+            </div>
+            <div class="swiper-slide">
+          
+			<li>
+                <a href="http://www.youanbao.local/chat/course/index?studentid=2015100000002992">
+                    <div class="icon"><img src="http://www.youanbao.local/chat/v3.0/images/grow_icon5.png">
+                    </div>
+                    <div class="icon_text">提个醒</div>
+                </a>
+            </li>
+            
+                        </div>
+            </ul>
+            <div class="pagination pagination_hide"></div>
+            </div>   
+    </div>
+</div>
+<!-- 成长档案 -->
+ <div class="show_banner_box">
+    <a href="http://www.youanbao.local/chat/growth/index?studentid=2015100000002992"><img src="http://www.youanbao.local/chat/v3.0/images/grow_banner1.jpg"> </a>
+</div>
+<!-- 宝宝视频 -->
+<div class="top_height_blank"></div>
+<!-- 底部菜单 -->
+<ul class="new_bottom_menu">
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992" class="act" >成长</a>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/mykinderd?studentid=2015100000002992" >幼儿园</a>
+    </li>
+    <li>
+        <div style="position:relative;margin:0 auto;width:60px">
+	        <a href="http://www.youanbao.local/chat/Mobile/index?studentid=2015100000002992" >通讯录</a>
+	        <div class='num mobile_bubble' style="display:none"></div>
+        </div>
+    </li>
+    <li>
+        <a href="http://www.youanbao.local/chat/homepage/myinfo?studentid=2015100000002992">我</a>
+    </li>
+</ul>
+
+<input type="hidden" id="session_visit_sign" value="0" />
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jquery-1.11.1.min.js?v=0515"></script>
+<script>
+var back_href = "/homepage/index";
+//获取通讯录冒泡数
+$.ajax({
+  url:'/Mobile/bubble?studentid=2015100000002992',
+  type:'post',
+  dataType:'json',
+  success:function(result){
+      if(result.status == 1 && result.data > 0){
+          var mobile_bubble = $('.mobile_bubble');
+          mobile_bubble.text(result.data>99?'···':result.data);
+          mobile_bubble.show();
+      }
+  }
+});
+$(function(){
+	//添加Loading 菊花转!
+	function addLoadingMsg () {
+		$("body").append('<div id="progress" class="progress_bg"><div class="progress"><div class="loading"></div><br><span>正在载入...</span></div></div>');
+	};
+    addLoadingMsg ();
+    //添加宝宝
+    $(".add_user_btn").on('click',function(){
+    	location.href = 'http://www.youanbao.local/chat/myfamily/baby_list?studentid=2015100000002992&info=1';
+    });	
+    $(".setting_menu_btn").on("click",function(){
+        $(".slide_left_menu_bg").addClass("show_menu_bg");
+    });
+    $(".slide_left_menu_bg").on("click",function(){
+        $(this).removeClass("show_menu_bg");
+    });
+    $(".slide_left_menu").on("click",function(e){
+        e.stopPropagation();
+        /*e.preventDefault();*/
+    });
+    //切换宝宝
+    $(".slide_left_menu_ul").on("click","li",function(){
+        //$(".slide_left_menu_ul .act").removeClass("act");
+        //$(this).addClass("act");
+        var studentid = $(this).attr('studentid');
+        var current_id = '2015100000002992';
+        if( studentid != current_id ){
+    		location.href = back_href+"?studentid="+studentid;
+        }
+    });
+});
+</script>
+
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/mobiscroll.custom.js"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/jalert.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/faceMap2.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/lib/mlellipsis.min.js?v=0515"></script>
+<script type="text/javascript" src="http://www.youanbao.local/chat/v3.0/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+    wx.config({
+        //debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId:    'wx6e357dce31f0c0f3_jie', // 必填，公众号的唯一标识
+        timestamp:'', // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature:'',// 必填，签名，见附录1
+        jsApiList: [
+            'chooseImage',
+            'previewImage',
+            'uploadImage',
+        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+    });
+    wx.ready(function(){});
+    function chooseImg(obj_target){
+        wx.chooseImage({
+            count: 1, // 默认9
+            sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+            sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+            success: function (res) {
+                var localIds    = res.localIds; // 返回选定照片的本地ID列表，localId可以作为img标签的src属性显示图片
+                var last_index  = localIds.length - 1;
+                var last_img_id = localIds[last_index];
+
+                showLoadingMsg('上传处理中');
+                wx.uploadImage({
+                    localId: last_img_id, // 需要上传的图片的本地ID，由chooseImage接口获得
+                    isShowProgressTips: 0, // 默认为1，显示进度提示
+                    success: function (res) {
+                        var serverId = res.serverId; // 返回图片的服务器端ID
+                        ajax_head(serverId,last_img_id);
+                    }
+                });
+            }
+        });
+    };
+$(function(){
+
+	 var mySwiper = new Swiper('.swiper-container', {
+         pagination: '.pagination',
+         /*loop: true,*/
+         grabCursor: true,
+         paginationClickable: true,
+         slidesPerView: 1,  // 将每个屏分成1份来滚动
+         initialSlide:0,  //初始屏幕为第3屏，从0开始算起
+         autoplay:3000,
+         noSwiping:true,
+         autoplayDisableOnInteraction:false,
+         //onTouchEnd:function(mySwiper){
+		     //mySwiper.stopAutoplay();
+             //mySwiper.startAutoplay();
+         //}
+       
+     });
+	     var now = new Date();
+	     var opt = {
+	            'datetime': {
+	                preset: 'datetime',
+	                dateOrder: 'yyyymmdd',
+	                dateFormat: 'yy-mm-dd',
+	                timeWheels: '',
+	                timeFormat: '',
+	                width: 40,
+	                minDate: new Date(now.getFullYear()-10, 1, 1, now.getHours(), now.getMinutes()),
+	                maxDate: new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes()),
+	                invalid: { disableHours: [0, 1, 2, 3, 4, 5, 6]}
+	         }
+	     };
+
+	     $('.set_birth_input').scroller('destroy').scroller($.extend(opt['datetime'], {
+	         theme: 'ios',
+	         mode: 'scroller',
+	         display: 'bottom',
+	         //startYear:now.getFullYear()-7,
+	     }));
+	     
+	     /*提交生日*/
+	     $('.set_birth_input').on('change',function(){
+	    	showLoadingMsg('上传处理中');
+		 	var birth = $(this).val();
+		 	$.ajax({
+				url:'http://www.youanbao.local/chat/homepage/mybabybirth?studentid=2015100000002992',
+				type:'POST',
+				dataType:'json',
+				data:{'birth':birth},
+				success:function(msg){
+					if(msg.status == 1){
+						hideLoadingMsg();
+						jTips(msg.info);					
+						window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+					}else{
+						hideLoadingMsg();
+						jTips(msg.info);
+					}
+				}
+			});
+		 });
+	
+		$(".common_p_small").each(function(){
+			this.mlellipsis(4);
+		});
+		
+        //更多日志
+        $(".diary").on('click',function(){
+			location.href = 'http://www.youanbao.local/chat/diary/list?studentid=2015100000002992';
+        });
+        //签到
+        $(".signin_info_btn").on('click',function(){
+        	location.href = "http://www.youanbao.local/chat/sign/index?studentid=2015100000002992";
+        });
+        //更多宝宝视频
+        $('.babyvideo').on('click',function(){
+        	location.href = 'http://www.youanbao.local/chat/video/index?studentid=2015100000002992';
+        });
+
+        //添加身高和体重
+        $('.record_height').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=1';
+			}
+        });
+		//添加身高入口
+        $('.record_weight').on('click',function(){
+			var is_add = $('.set_birthday').text();
+			if(is_add == '请填写宝宝生日'){
+				jTips('请先完成上面"请填写宝宝生日"');
+			}else{
+				location.href = 'http://www.youanbao.local/chat/Homepage/bodyadd?studentid=2015100000002992&type=0';
+			}
+        });
+        
+        replace_express('.common_p_small');
+	 	 // 更新气泡
+	 	 var page_base_href = "http://www.youanbao.local/";
+	 	 var page_location_href = location.href;
+	 	 var page_group_name = "chat";
+	 	 var page_model_name = "homepage";
+	 	 var page_action_name = "index";
+	 	 var page_visit_sign = $('#session_visit_sign').val();
+
+	 	 if('homepage' == page_model_name && 'index' == page_action_name){
+	 	 	 if(page_visit_sign == 0){
+		 	 	$('#session_visit_sign').val(1);
+		 	 	$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		sessionStorage.setItem("session_"+rs[1]+"_"+rs[2]+"_sign",0);
+		 		});
+		 	 } else {
+		 		$('.yab_chat_href').each(function(i,e){
+		 	 		var icon_href = $(this).attr('href');
+		 	 		var reg = /chat\/(\w+)\/(\w+)/i;
+		 	 		var rs = icon_href.match(reg);
+		 	 		
+		 	 		var sign = sessionStorage.getItem("session_"+rs[1]+"_"+rs[2]+"_sign");
+		 	 		if(sign == 1){
+		 	 			$(this).find(".num").remove();
+		 	 		}
+		 		});
+			 }
+	 	 } else {
+		 	if(page_visit_sign == 0){
+		 		$('#session_visit_sign').val(1);
+				if(sessionStorage.getItem("session_"+page_model_name+"_"+page_action_name+"_sign") == 0) {
+					sessionStorage.setItem("session_"+page_model_name+"_"+page_action_name+"_sign",1);
+				}
+		 	}
+	 	 }
+});
+// 显示Loading （文本值）
+function showLoadingMsg(text) {
+     $("#progress").css("display", "block");
+     $("body").css("position", "fixed");
+     $(".progress").css("margin-left", $(window).width() / 2 - 80);
+     if (text) {
+         $("#progress span").text(text);
+     }
+};
+//隐藏Loading
+function hideLoadingMsg () {
+     $("#progress").hide();
+     $("body").css("position", "static");
+}
+//上传学生图像
+$(".banner_img").on("click",function(){
+    chooseImg(".banner_img");
+});
+function ajax_head(head,last_img_id){
+	var data = {'head':head};
+	
+	$.ajax({
+		url:'http://www.youanbao.local/homepage/head_upload/?studentid=2015100000002992',
+		type:'POST',
+		dataType:'json',
+		data:data,
+		success:function(msg){
+			if(msg.status == 1){
+				hideLoadingMsg();
+				jTips('图片上传成功');
+				//$(".banner_img").style("background-image",'url(http://www.youanbao.local/'+msg.data+')');
+				window.location.href = 'http://www.youanbao.local/chat/homepage/index?studentid=2015100000002992';
+			}else{
+				hideLoadingMsg();
+				jTips('图像上传失败');
+			}
+		},
+		error:function(){
+			jTips('出现一点小问题，正在处理');
+		},
+	});
+}
+var face_map_url="http://www.youanbao.local/chat/v3.0/images/mr/";
+function replace_express(class_name){
+	$(class_name).each(function(){
+		//替换表情	
+		var desc = $(this).html().replace(/\[([^\]]+)\]/g, function (a, b){
+	        return "<img class='face_icon' src='"+ face_map_url + objMap[b] + ".gif'>";
+	    });
+		$(this).html(desc);	
+	});	
+}
+</script>
+
+</body>
+</html>-------------------------第9次---------------------------
